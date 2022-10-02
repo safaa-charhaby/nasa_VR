@@ -901,7 +901,7 @@ Banner Style
 
 .main-banner:after {
   content: '';
-  background-image: url();
+  background-image: url(https://spaceplace.nasa.gov/galaxy/en/webb-first-deep-field.en.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -1154,7 +1154,7 @@ About Us
 }
 
 .about-us:after {
-  background-image: url();
+  background-image: url(https://spaceplace.nasa.gov/galaxy/en/webb-first-deep-field.en.jpg);
   width: 777px;
   height: 1132px;
   content: '';

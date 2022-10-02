@@ -901,9 +901,9 @@ Banner Style
 
 .main-banner:after {
   content: '';
-  background-image: url(https://spaceplace.nasa.gov/galaxy/en/webb-first-deep-field.en.jpg);
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 100%;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1154,14 +1154,11 @@ About Us
 }
 
 .about-us:after {
-  background-image: url(https://spaceplace.nasa.gov/galaxy/en/webb-first-deep-field.en.jpg);
-  width: 777px;
-  height: 1132px;
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
+  background-size: 100%;
   content: '';
   position: absolute;
   background-repeat: no-repeat;
-  right: 0;
-  top: 50%;
   transform: translateY(-50%);
   z-index: 0;
 }

@@ -1105,6 +1105,9 @@ About Us
 .about-us .section-heading {
   margin-bottom: 45px;
 }
+.about-us .section-heading .p {
+  color: #0000;
+}
 
 .about-us .section-heading,
 .about-us .box-item,
@@ -1112,7 +1115,7 @@ About Us
 .about-us .box-item .gradient-button,
 .about-us .box-item span {
   position: relative;
-  z-index: 1;
+  z-index: 0;
 }
 
 .about-us .box-item {
@@ -1129,8 +1132,9 @@ About Us
   margin-top: 8px;
   color: #fff;
   transition: all .3s;
+  z-index: 77;
 }
-
+.
 .about-us .box-item p {
   margin-bottom: 0px;
   color: #2F3C68;
@@ -1992,7 +1996,7 @@ responsive
     display: none;
   } 
   .main-banner .left-content h2 {
-    color: #7A51D0;
+    color: #fff;
     margin-right: 0;
   }
   .main-banner .left-content p {
@@ -2069,6 +2073,7 @@ responsive
     margin-right: 30px;
     margin-left: 30px;
     margin-bottom: 45px;
+    z-index: 0;
   }
   .blog-posts {
     margin-left: 0px;

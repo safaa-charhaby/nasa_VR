@@ -349,6 +349,7 @@ header
 .header-area .main-nav {
   min-height: 80px;
   background-color: #fff;
+  background-size: cover;
 }
 
 .header-area .main-nav .logo {

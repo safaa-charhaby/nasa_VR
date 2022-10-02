@@ -1130,12 +1130,13 @@ About Us
   font-size: 20px;
   font-weight: 700;
   margin-top: 8px;
-  color: #2a2a2a;
+  color: #fff;
   transition: all .3s;
 }
 
 .about-us .box-item p {
   margin-bottom: 0px;
+  color: #2F3C68;
 }
 
 .about-us .box-item:hover h4 a {
@@ -1149,7 +1150,7 @@ About Us
 
 .about-us span {
   font-size: 14px;
-  color: #7a7a7a;
+  color: #2F3C68;
 }
 
 .about-us .right-image {
@@ -1983,11 +1984,11 @@ responsive
     display: none;
   } 
   .main-banner .left-content h2 {
-    color: #2a2a2a;
+    color: #7A51D0;
     margin-right: 0;
   }
   .main-banner .left-content p {
-    color: #afafaf;
+    color: #fff;
     margin-right: 0;
   }
   .main-banner .left-content .white-button a {

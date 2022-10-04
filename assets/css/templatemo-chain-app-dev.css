@@ -104,7 +104,6 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  background-color: #fff;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1128,6 +1127,9 @@ About Us
   border-radius: 40px;
   margin-bottom: 30px;
 }
+.about-us .col-lg-6 {
+  z-index: 100;
+}
 
 .about-us .box-item h4 a {
   font-size: 20px;
@@ -1135,13 +1137,11 @@ About Us
   margin-top: 8px;
   color: #4b8ef1;
   transition: all .3s;
-  z-index: 77;
 }
 .
 .about-us .box-item p {
   margin-bottom: 0px;
   color: #fff;
-  z-index: 77;
 }
 
 .about-us .box-item:hover h4 a {
@@ -1174,7 +1174,7 @@ About Us
   z-index: 0;
 }
 .about-us:after {
-  background-image: url(https://images.squarespace-cdn.com/content/v1/60901c200ec527741de5dafa/1631209014031-OQI9KEOU04QB33S000FI/Virtual+Reality+Vector+Illustration-01.png);
+  background-image: url();
    width: 777px;
   height: 1132px;
   content: '';

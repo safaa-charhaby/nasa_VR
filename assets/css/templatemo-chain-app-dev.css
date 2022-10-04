@@ -928,7 +928,7 @@ Banner Style
 
 .main-banner .left-content p {
   margin-bottom: 45px;
-  color: #fff;
+  color: #0000;
   font-weight: 400;
 }
 
@@ -1113,7 +1113,6 @@ About Us
 
 .about-us .section-heading,
 .about-us .box-item,
-.about-us p,
 .about-us .box-item .gradient-button,
 .about-us .box-item span {
   position: relative;

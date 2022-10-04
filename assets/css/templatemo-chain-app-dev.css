@@ -1169,7 +1169,7 @@ color: #0000;
   position: absolute;
   background-repeat: no-repeat;
   right: 0;
-  top: 0;
+  top: 70%; 
   transform: translateY(-50%);
   z-index: 0;
 }

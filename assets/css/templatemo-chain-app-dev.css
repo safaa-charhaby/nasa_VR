@@ -122,13 +122,6 @@ ul {
   margin-bottom: 0px;
 }
 
-p {
-  font-size: 15px;
-  line-height: 30px;
-  font-weight: 300;
-  color: #0000;
-  z-index: 77;
-}
 
 img {
   width: 100%;
@@ -1096,7 +1089,7 @@ Services Style
 About Us
 ---------------------------------------------
 */
-.image9 {
+.right-image {
   z-index: 1
 }
 .about-us {
@@ -1138,6 +1131,7 @@ About Us
 }
 .about-us p {
 color: #0000;
+  z-index: 77;
 }
 .about-us .box-item p {
   margin-bottom: 0px;

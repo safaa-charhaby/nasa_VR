@@ -1156,7 +1156,6 @@ About Us
 
 .about-us .right-image {
   position: relative;
-  z-index: 1;
 }
 
 .about-us:after {

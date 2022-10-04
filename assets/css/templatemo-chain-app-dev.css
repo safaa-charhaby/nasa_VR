@@ -1096,7 +1096,9 @@ Services Style
 About Us
 ---------------------------------------------
 */
-
+.image9 {
+  z-index: 0
+}
 .about-us {
   padding-top: 130px;
   position: relative;

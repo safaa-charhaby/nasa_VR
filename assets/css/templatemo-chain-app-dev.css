@@ -1137,7 +1137,9 @@ About Us
   color: #4b8ef1;
   transition: all .3s;
 }
-.
+.about-us p {
+color: #0000;
+}
 .about-us .box-item p {
   margin-bottom: 0px;
   color: #808080;

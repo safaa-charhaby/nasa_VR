@@ -127,6 +127,7 @@ p {
   line-height: 30px;
   font-weight: 300;
   color: #0000;
+  z-index: 77;
 }
 
 img {
@@ -141,7 +142,6 @@ global styles
 */
 html,
 body {
-  background: #fff;
   font-family: 'Roboto', sans-serif;
 }
 

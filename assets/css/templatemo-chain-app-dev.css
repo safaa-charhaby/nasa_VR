@@ -1130,14 +1130,15 @@ About Us
   font-size: 20px;
   font-weight: 700;
   margin-top: 8px;
-  color: #fff;
+  color: #4b8ef1;
   transition: all .3s;
   z-index: 77;
 }
 .
 .about-us .box-item p {
   margin-bottom: 0px;
-  color: #2F3C68;
+  color: #fff;
+  z-index: 77;
 }
 
 .about-us .box-item:hover h4 a {

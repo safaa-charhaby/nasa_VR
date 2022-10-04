@@ -1163,10 +1163,9 @@ color: #0000;
 
 .about-us:after {
   background-image: url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
-  width: 777px;
-  height: 1132px;
+  backfround-size: 100%;
   content: '';
-  position: absolute;
+  position: fixed;
   background-repeat: no-repeat;
   right: 0;
   top: 50%;

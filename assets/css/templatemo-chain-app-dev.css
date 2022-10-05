@@ -888,9 +888,6 @@ preloader
 Banner Style
 --------------------------------------------- 
 */
-.col-lg-1 {
-  color: #fff;
-}
 
 .main-banner {
   background-repeat: no-repeat;
@@ -928,9 +925,9 @@ Banner Style
   color: #dcb4e3;
 }
 
-.main-banner .left-content p {
+.main-banner  p {
   margin-bottom: 45px;
-  color: #0000;
+  color: #fff;
   font-weight: 400;
   z-index: 2;
 }

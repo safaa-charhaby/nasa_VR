@@ -140,7 +140,7 @@ global styles
 html,
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #191919;
+  background-color: #5b3546;
 }
 
 ::selection {
@@ -924,11 +924,12 @@ Banner Style
   color: #dcb4e3;
 }
 
-.main-banner .left-content p {
+.main-banner .left-content pre {
   margin-bottom: 45px;
   color: #fff;
   font-weight: 400;
   z-index: 2;
+  overflow: hidden;
 }
 
 .main-banner .left-content .first-button {
@@ -950,7 +951,7 @@ Banner Style
 }
 
 .main-banner .left-content .white-button a {
-  background-color: #4b8ef1;
+  background-color: #131314;
   color: #fff !important;
 }
 
@@ -1510,7 +1511,7 @@ footer {
   padding-bottom: 60px;
 }
 footer .mb-4 {
-  margin-left: 70%;
+  
 }
 footer .col-lg-12 {
   bottom: 0px;
@@ -1522,7 +1523,7 @@ footer .section-heading h4 {
 }
 }
 footer .footer-widget {
-  color: #fff;
+  color: #2d495e;
 }
 
 /*

@@ -1515,11 +1515,15 @@ footer .mb-4 {
 footer .col-lg-12 {
   bottom: 0px;
 }
+@media (min-width: 800px) {
 footer .section-heading h4 {
   color: #fff;
-  margin-top: 10px;
+  margin-top: -300px;
 }
-
+}
+footer .footer-widget {
+  color: #fff;
+}
 
 /*
 ---------------------------------------------
@@ -1918,7 +1922,7 @@ responsive
     text-align: center;
   }
   footer .section-heading h4 {
-    color: #2a2a2a;
+    color: #fff;
   }
   footer #search {
     margin-bottom: 45px;

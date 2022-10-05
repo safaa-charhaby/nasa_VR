@@ -888,6 +888,9 @@ preloader
 Banner Style
 --------------------------------------------- 
 */
+.col-lg-1 {
+  color: #fff;
+}
 
 .main-banner {
   background-repeat: no-repeat;

@@ -1519,9 +1519,9 @@ footer .section-heading {
 footer .col-lg-12 {
   bottom: 0px;
 }
-.section-heading {
-  color: white;
-  margi,-top: 0px;
+footer .section-heading {
+  color: #fff;
+  margin-top: 0px;
 }
 
 

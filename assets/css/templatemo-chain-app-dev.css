@@ -141,6 +141,7 @@ global styles
 html,
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #dcb4e3;
 }
 
 ::selection {
@@ -1095,8 +1096,8 @@ Services Style
 About Us
 ---------------------------------------------
 */
-.right-image {
-  z-index: 1
+.about-us .photo {
+  position: absolute;
 }
 .about-us {
   padding-top: 130px;
@@ -1105,9 +1106,6 @@ About Us
 
 .about-us .section-heading {
   margin-bottom: 45px;
-}
-.about-us .section-heading .p {
-  color: #0000;
 }
 
 .about-us .section-heading,
@@ -1124,9 +1122,6 @@ About Us
   border-radius: 40px;
   margin-bottom: 30px;
 }
-.about-us .col-lg-6 {
-  z-index: 77;
-}
 
 .about-us .box-item h4 a {
   font-size: 20px;
@@ -1136,7 +1131,7 @@ About Us
   transition: all .3s;
 }
 .about-us .p {
-color: #0000;
+color: #000000;
   z-index: 77;
 }
 .about-us .box-item p {

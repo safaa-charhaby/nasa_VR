@@ -977,7 +977,7 @@ Services Style
   padding-right: 65px;
 }
 
-.services {
+.services:after {
   content: '';
   background-image:  url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
   background-repeat: no-repeat;

@@ -1168,9 +1168,7 @@ color: #0000;
   content: '';
   position: absolute;
   background-repeat: no-repeat;
-  right: 50%;
-  top: 40%;
-  bottom: 50%;
+  bottom: 0px;
   transform: translateY(-50%);
   z-index: 0;
 }

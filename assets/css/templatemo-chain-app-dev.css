@@ -977,15 +977,15 @@ Services Style
   padding-right: 65px;
 }
 
-.services:after {
+.services {
   content: '';
   background-image:  url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
-  bottom: -300px;
-  width: 261px;
-  height: 368px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
   z-index: 0;
 }
 

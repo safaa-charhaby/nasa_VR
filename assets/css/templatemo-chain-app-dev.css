@@ -928,6 +928,7 @@ Banner Style
   margin-bottom: 45px;
   color: #0000;
   font-weight: 400;
+  z-index: 2;
 }
 
 .main-banner .left-content .first-button {
@@ -1590,7 +1591,7 @@ footer .mb-4 {
 }
 
 footer .section-heading {
-  margin-bottom: 45px;
+  margin-bottom: 50px;
 }
 
 footer .section-heading h4 {

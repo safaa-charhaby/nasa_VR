@@ -1513,7 +1513,12 @@ footer {
 footer .mb-4 {
   margin-left: 70%;
 }
-
+footer .section-heading {
+  top: 0px;
+}
+footer .col-lg-12 {
+  bottom: 0px;
+}
 
 
 /*

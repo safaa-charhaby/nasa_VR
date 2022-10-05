@@ -125,7 +125,6 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #fff;
 }
 
 img {
@@ -925,7 +924,7 @@ Banner Style
   color: #dcb4e3;
 }
 
-.main-banner  p {
+.main-banner .left-content p {
   margin-bottom: 45px;
   color: #fff;
   font-weight: 400;
@@ -1801,12 +1800,14 @@ responsive
 
   .main-banner .left-content p {
     margin-bottom: 45px;
+    color: #fff;
+    
   }
 }
 
 @media (max-width: 992px) {
   .header-area {
-    background-color: #fff;
+    background-color: url(https://p4.wallpaperbetter.com/wallpaper/79/450/477/starry-sky-stars-lilac-night-wallpaper-preview.jpg);
   }
   .main-banner:after {
     display: none;
